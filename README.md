@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Sonar</h1>
 <h3 align="center">Passionate about Cloud, Data, Web Dev and Machine Learning</h3>
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-567&label=Profile%20views&color=0e75b6&style=flat" alt="yash-567" /> </p>
 
